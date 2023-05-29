@@ -1,10 +1,13 @@
 .navigation_bar{
 height: max-content;
 width: max-content;
-background: purple;
+background-color: purple;
 }
 .body-container{
     height: max-content;
     width: max-content;
-    background: lightgreen;
+    background-color: lightgreen;
+}
+body{
+    background-color: yellow;
 }
