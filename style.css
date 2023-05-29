@@ -1,7 +1,10 @@
 .navigation_bar{
-
-    background: purple;
+height: max-content;
+width: max-content;
+background: purple;
 }
 .body-container{
+    height: max-content;
+    width: max-content;
     background: lightgreen;
 }
